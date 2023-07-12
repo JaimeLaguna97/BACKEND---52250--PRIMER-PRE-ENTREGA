@@ -1,7 +1,6 @@
 import fs from 'fs';
 
 class CartManager {
-
     constructor() {
         this.cartsFile = './data/carts.json';
     }
